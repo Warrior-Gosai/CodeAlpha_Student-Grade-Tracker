@@ -1,3 +1,8 @@
+// Code Alpha Internship -  TASK-1
+// TASK - 1 ( Student Grade Tracker )
+// Follow on GitHub -> @Warrior-Gosai
+
+
 import java.util.*;
 
 public class StudentGradeTracker {
@@ -35,7 +40,7 @@ public class StudentGradeTracker {
                     System.out.print("Enter marks (0-100): ");
                     double marks = sc.nextDouble();
                     students.add(new Student(name, marks));
-                    System.out.println("✅ Grade added successfully!");
+                    System.out.println("Grade added successfully!");
                     break;
 
                 case 2:
@@ -85,3 +90,4 @@ public class StudentGradeTracker {
         sc.close();
     }
 }
+
