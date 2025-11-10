@@ -1,30 +1,25 @@
-# 🏨 Hotel Reservation System — CodeAlpha Internship (Task 4)
+# 🎓 Student Grade Tracker — CodeAlpha Internship (Task 1)
 
 ## 📘 Project Overview
-The **Hotel Reservation System** is a console-based Java application that allows users to **search, book, and manage hotel rooms**.  
-It uses **Object-Oriented Programming (OOP)** concepts and **JDBC** for database connectivity with MySQL.
-
-The project simulates real-world hotel operations such as checking room availability, booking rooms, managing reservations, and handling payments.
+The **Student Grade Tracker** is a simple Java-based console application that allows users to **input and manage student grades**.  
+It demonstrates the use of **ArrayLists** and **Object-Oriented Programming (OOP)** concepts to calculate and display **average, highest, and lowest scores**.
 
 ---
 
 ## 🎯 Features
-✅ Search available rooms by category (Standard, Deluxe, Suite)  
-✅ Book a room with check-in/check-out details  
-✅ Cancel reservations  
-✅ View all booking details  
-✅ Payment simulation (cash or card)  
-✅ Data stored in **MySQL database** using JDBC  
-✅ Clean OOP structure and reusable design  
+✅ Add new students and their grades  
+✅ View all student grades  
+✅ Calculate average, highest, and lowest scores  
+✅ Display summary statistics  
+✅ Console-based user interface (Core Java)
 
 ---
 
 ## 🧠 Technologies Used
 - **Java (Core)**
-- **MySQL Database**
-- **JDBC (Java Database Connectivity)**
-- **OOP Concepts (Encapsulation, Classes, Objects, Methods)**
-- **NetBeans / IntelliJ / Eclipse (any IDE)**
+- **ArrayList Collection**
+- **OOP Concepts**
+- **Console I/O**
 
 ---
 
